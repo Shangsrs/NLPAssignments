@@ -1,0 +1,13 @@
+**2. [python 官网](www.python.org)**
+**3. [Aanaconda](https://www.anaconda.com)**
+**4. [Anaconda清华镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive)**
+[天池](https://tianchi.aliyun.com/home/)
+1.1[天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
+1.2[天池AI学习](https://tianchi.aliyun.com/course/?spm=5176.12281897.0.0.c6d239a9PLi7oH)
+3.  [科赛网](https://www.kesci.com/)
+4.  [DC大赛](https://www.dcjingsai.com/static_page/cmpList.html)
+5.  [kaggle](https://www.kaggle.com)
+[DataFountain](https://www.datafountain.cn/competitions). 
+1. xgboost 原理        
+1.1[xgboost原始论文地址](https://arxiv.org/pdf/1603.02754v1.pdf)
+1.2[xgboost 原始ppt介绍](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)

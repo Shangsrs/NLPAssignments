@@ -1,0 +1,5 @@
+#需要安装pymysql
+#文件使用方法：
+from DBNews import *
+#得到切词之后的数据，返回list
+news_cut = getNews()	

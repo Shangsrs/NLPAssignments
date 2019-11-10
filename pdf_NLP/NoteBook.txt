@@ -1,0 +1,78 @@
+﻿fasttext��
+	sub-word
+	out of vocabulary
+
+skip-gram, CBOW, Fast-text, Glove, Cove(context vect),ELMO, BERT, 
+
+Transform
+
+1. Text Rank  networkx
+2. distance(sentence, sentence)
+
+
+https://github.com/llhthinker/NLP-Papers
+https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+
+Project 01 https://github.com/yu-cherish
+
+BootStrap: https://www.runoob.com/bootstrap/bootstrap-environment-setup.html
+
+DataSource https://github.com/crownpku/Awesome-Chinese-NLP
+fast text http://www.52nlp.cn/fasttext
+
+程序员修炼之道 The Pragmatic Programmer
+代码整洁之道 Clean Code
+程序员的职业素养 The Clean Code
+领域驱动设计和实践 Domain-Driven Design
+测试驱动的面向对象软件开发 Growing Object-Oriented Software, Guided by Tests
+持续交付 Continuous Delivery
+
+Lession - 12:
+https://github.com/bhaveshoswal/CNN-text-classification-keras/blob/master/model.py#L36
+
+https://github.com/dennybritz/cnn-text-classification-tf/blob/master/text_cnn.py
+
+
+Regularization:
+https://github.com/FroyoZzz/Deep-Learning-Homework/tree/master/COURSE%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning,%20Regularization%20and%20Optimization/week-1/homework
+https://github.com/FroyoZzz/Deep-Learning-Homework
+
+Toxic
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/notebooks
+
+Question 答疑 Part-09
+https://zhuanlan.zhihu.com/p/38024868
+http://nlp.town/blog/sentence-similarity/
+https://blog.csdn.net/jinping_shi/article/details/52433975
+https://www.cnblogs.com/chenzhen0530/p/10632937.html
+https://github.com/weidadada/assignment/blob/master/%E4%BD%9C%E4%B8%9A10/10.ipynb
+
+Blog
+http://www.cnblogs.com
+
+SVM
+https://www.cnblogs.com/liqizhou/archive/2012/05/11/2495537.html
+
+LetCode
+https://leetcode-cn.com/problemset/algorithms/
+
+Learn Python
+https://www.liaoxuefeng.com/wiki/1016959663602400/1017328655674400
+
+Data Structure & Algorithm
+https://github.com/wangzheng0822/algo.git
+
+Stanford SQuAd
+https://rajpurkar.github.io/SQuAD-explorer/
+
+Google
+https://github.com/google-research?page=1
+
+Google Bert
+https://github.com/google-research/bert
+
+Tensorflow 2.0 Document
+https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+
+tensor2tensor
+https://github.com/tensorflow/tensor2tensor
