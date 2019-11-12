@@ -1,0 +1,19 @@
+塞古罗港的安全驾驶员出险预测：
+https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+lgb多个开源步骤代码：
+https://www.kaggle.com/xiaozhouwang/2nd-place-lightgbm-solution
+
+Instant Gratification：
+https://www.kaggle.com/c/instant-gratification
+
+复赛pravite第一的开源：
+https://www.kaggle.com/lovedm/private-0-97603-kneighborsregressor
+增加伪标签代码：
+https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969
+
+课上提到的网站：
+https://tianchi.aliyun.com/competition/entrance/231721/introduction
+https://tianchi.aliyun.com/competition/entrance/231719/introduction
+https://tianchi.aliyun.com/competition/entrance/231718/rankingList
+
+
